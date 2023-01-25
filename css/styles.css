@@ -1,0 +1,23 @@
+body{
+  align-content: center;
+  background-color: #d4e2eb;
+  text-align: center;
+  margin: 0;
+}
+img{
+  width: 250px;
+  height: 250px;
+  border-radius: 8px;
+}
+h3,p{
+  margin: 20px auto 20px auto;
+}
+
+.qr-container{
+  border-radius: 10px;
+  padding: 15px;
+  background-color: white;
+  width: 250px;
+  min-height: 100px;
+  margin: 10% auto auto auto;
+}
